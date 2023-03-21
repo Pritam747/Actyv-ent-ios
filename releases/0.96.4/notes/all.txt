@@ -1,0 +1,5 @@
+Bug Fixes-
+1. Fixed issue of typing the letter in the Search Bar.
+2. Lazy loading is implemented in actyv score listing page.
+3. Fixed x-axis issue of Enterprise Health chart.
+4. Updated Help hyperlink.

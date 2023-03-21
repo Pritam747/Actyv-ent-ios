@@ -1,0 +1,7 @@
+Features-
+1. Implemented business partner list of new actyv score API.
+2. Implemented EHR detail mapping of new actyv score API.
+
+Bug Fixes-
+1. Fixed UI issue of Info page and toast message for iOS. 
+2. Minor UI fixes.

@@ -1,0 +1,5 @@
+ul.py-10.overflow-tabs {
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto;
+}

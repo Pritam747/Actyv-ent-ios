@@ -1,0 +1,7 @@
+{
+  "name": "\tAnchor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

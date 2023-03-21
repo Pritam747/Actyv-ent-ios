@@ -1,0 +1,6 @@
+Bug Fixes-
+1. Bugs fixed in actyv Score and EHR details.
+2. Added status colors for Decision Panel options.
+3. Bug fixed in Overview tab.
+4. Added role of user in menu.
+5. Minor UI bug fixes.

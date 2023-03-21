@@ -1,0 +1,3 @@
+Bug Fixes-
+1. Fixed status color issue in Application Details.
+2. Minor UI fixes.

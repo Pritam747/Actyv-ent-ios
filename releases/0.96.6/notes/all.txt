@@ -1,0 +1,3 @@
+Bug Fixes-
+1. Fixed EHR label issue.
+2. Minor UI bug fixes.

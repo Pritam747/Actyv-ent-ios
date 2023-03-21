@@ -1,0 +1,7 @@
+Bug Fixes-
+1. Login issue fixed, Added new Cognito keys for login.
+2. Fixed Login with OTP issue.
+3. Fixed History Tab status issue.
+4. Fixed loader issue in actyv score listing page.
+5. Fixed Overview tab's icons issue.
+6. Minor UI fixes.

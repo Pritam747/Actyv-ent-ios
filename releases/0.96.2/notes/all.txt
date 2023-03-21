@@ -1,0 +1,16 @@
+Features-
+1. Implemented Remember me.
+2. Added check for Rooted device.
+3. Done integration of GET ENTERPRISE URL API.
+
+Bug Fixes-
+1. Fixed hardware back button issue.
+2. Added new links in Login footer.
+3. Fixed profile image issue in menu.
+4. Added message with loader.
+5. Removed prefilled credentials from Login page.
+6. Updated app icon.
+7. Added new Cognito credential for login.
+8. Removed Front and Back buttons from Aadhaar document.
+9. Done to redirect enterprise user to Inbox page after login.
+10. Minor UI fixes.
